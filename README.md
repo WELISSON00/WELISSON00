@@ -1,5 +1,5 @@
 Olá! Eu sou o WELISSON😄
-- 🔭 Cursando ADS 1º SEMESTRE
+- 💻 Cursando ADS 1º SEMESTRE
 - 🌱 Estudando Python.
 
 - Estudante de Análise e Desenvolvimento de Sistemas, eficiente e com boas habilidades de relacionamento interpessoal, que contribuem para a prestação de um serviço de excelência e para o suporte a equipe em tarefas diversas, visando colaborar efetivamente com a rotina de trabalho. Capaz de auxiliar na rotina diária e oferecer um serviço de qualidade, buscando soluções aos problemas apresentados.
