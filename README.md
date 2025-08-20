@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo WELISSON CARVALHO 🖐️
 
-### 📚 Estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS.
+### 📚 Estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 📚
 
 
 
