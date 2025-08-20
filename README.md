@@ -1,40 +1,21 @@
-Olá! Eu sou o WELISSON😄
-- 💻 Cursando ADS 1º SEMESTRE
-- 🌱 Estudando Python.
+## Olá! Eu me chamo WELISSON CARVALHO 🖐️
 
-- Estudante de Análise e Desenvolvimento de Sistemas, eficiente e com boas habilidades de relacionamento interpessoal, que contribuem para a prestação de um serviço de excelência e para o suporte a equipe em tarefas diversas, visando colaborar efetivamente com a rotina de trabalho. Capaz de auxiliar na rotina diária e oferecer um serviço de qualidade, buscando soluções aos problemas apresentados.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/welisson_carvalho_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/welisson-carvalho-612a53212/)
+
+## Aprendendo linguagens
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div><br/>
+
+### 💻 Estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS.
 
 
 
----
-
-### 🤖 Linguagens
-
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 
 
 
