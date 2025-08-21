@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=057EFB&height=120&section=header"/>
 
 ## 👨‍💻Olá! Eu me chamo WELISSON CARVALHO 🖐️   
               
