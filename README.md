@@ -1,6 +1,14 @@
-## Olá! Eu me chamo WELISSON CARVALHO 🖐️
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-### 📚 Estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 📚
+## Olá! Eu me chamo WELISSON CARVALHO 🖐️                                      
+
+
+
+
+### 📚 Estudante de ANÁLISE E DESENVOLVIMENTO DE SISTEMAS 📚    
+
+
+
 
 
 
