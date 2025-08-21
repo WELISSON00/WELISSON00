@@ -23,7 +23,7 @@
 ![WELISSON CARVALHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=WELISSON00&show_icons=true)
 
 
-## Aprendendo linguagens
+## 🌐Aprendendo linguagens
 
 
 <div style="display: inline_block">
