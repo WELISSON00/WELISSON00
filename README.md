@@ -43,7 +43,7 @@
 
 
 
-###  💻 Sobre mim
+###  👨‍💻 Sobre mim
 🚀 Sempre em busca de novos conhecimentos
 
 📚 Sou muito curioso em aprender novas tecnologias
