@@ -57,7 +57,7 @@
 
 ###  👨‍💻 Sobre mim 
    
-## 🚀 Sempre em busca de novos conhecimentos
+## 🚀 aprendizado contínuo e colaboração
 
 ## 📚 Sou muito curioso em aprender novas tecnologias
 
